@@ -1,2 +1,2 @@
 # ruby-practice
-This is just a practice execise for Chawki and Ashna to learn Ruby.
+This is just a practice execise for Cluab and G'sWill.
